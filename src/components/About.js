@@ -48,7 +48,7 @@ class About extends Component {
 
             <div className="col-md-8 center">
               <div className="col-md-10">
-                <div className="card">
+                <div className="card" id="about-content">
                   <div className="card-header">
                     <span
                       className="iconify"

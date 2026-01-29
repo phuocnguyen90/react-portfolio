@@ -16,6 +16,7 @@ class Footer extends Component {
 
     return (
       <footer>
+        <section id="footer">
         <div className="col-md-12">
           <div className="social-links">{networks}</div>
 
@@ -30,6 +31,7 @@ class Footer extends Component {
             </div>
           </div>
         </div>
+        </section>
       </footer>
     );
   }
